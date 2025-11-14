@@ -1,5 +1,4 @@
 # Anti-vehicle accident detection model using eyes,face and head gesture movements
-![Main_gif](https://user-images.githubusercontent.com/123289647/222927510-b285f34f-2c23-4f30-b765-7f57dc04671c.gif)
 
 ## Instructions 🗂️
 Down below are all the steps that you need to follow in the exact same order as mentioned to run this project on your local machine 
@@ -24,11 +23,3 @@ The objective of this endeavor is to create a trustworthy anti-vehicle accident 
 ### Potential Impact:
 This technology has a big potential effect since it might be able to stop mishaps brought on by distracted driving, drowsy driving, and other risky habits. Also, it will make driving better for every person by lowering the amount of fatalities as well as injuries on the roadways. Automobile makers, transportation providers, and citizens who want to increase traffic safety can all benefit from the effort.
 
-## Code 🖥️
-Here is the link that you can use for accesing the code file 👉 https://github.com/47-dev/Anti-Accident-Detection-Model/blob/main/main_Code.ipynb
-
-# Deep Geeks demo video 📷
-Link to access  👉  https://link-orpin.vercel.app/
-Link to access 👉 https://link-47-dev.vercel.app/
-
-Competitors had the thrilling opportunity to demonstrate off their talents and ingenuity by creating original answers to real-world issues during the Frosthack hack. We believe that the directions as well as code snippets in the this quickstart guide file will benefit contributors in their initiatives. The demonstration video is an excellent tool for showcasing the functionality and functioning of the developing and emerging during in the hacking.
